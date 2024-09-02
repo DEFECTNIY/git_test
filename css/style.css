@@ -1583,10 +1583,7 @@ img {
   .gallery {
     margin: 50px 0 0 0;
   }
-  .gallery__pic-overlay{
-    display: none;
-  }
-
+  
   /* ========================== */
   .newsletter {
     margin: 50px 0 0 0;
