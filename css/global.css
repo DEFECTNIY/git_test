@@ -1,0 +1,38 @@
+:root {
+    --titles-and-their-texts: #18121E;
+    --accent-text: #000000;
+    --about-text: #F2BE22;
+    --general-bg: #F3F5F4;
+    --transition: all .4s;
+    --border-radius: 6px;
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 100px;
+}
+
+.body {
+    font-family: "Nunito Sans", "Arial", sans-serif;
+    line-height: 1.2;
+    color: var(--titles-and-their-texts);
+    background: var(--general-bg);
+}
+
+.container {
+    max-width: 1210px;
+    margin: 0 auto;
+    padding: 0 15px;
+    height: 100%;
+}
+
+.wrapper {
+    min-height: 100%;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+.main{
+    flex-grow: 1;
+}
