@@ -135,6 +135,7 @@ img {
 
 .nav__link:hover {
   color: #00ff73;
+  font-size: 20px;
 }
 
 .header__consultation {
