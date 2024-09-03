@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'Nunito Sans 7pt SemiBold';
+  src: local('Nunito Sans 7pt SemiBold'), local('NunitoSans7pt-SemiBold'),
+      url('../fonts/NunitoSans7pt-SemiBold.woff2') format('woff2'),
+      url('../fonts/NunitoSans7pt-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nunito Sans 7pt-ExtraBold';
+  src: local('Nunito Sans 7pt ExtraBold'), local('NunitoSans7pt-ExtraBold'),
+      url('../fonts/NunitoSans7pt-ExtraBold.woff2') format('woff2'),
+      url('../fonts/NunitoSans7pt-ExtraBold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nunito Sans 7pt';
+  src: local('Nunito Sans 7pt Regular'), local('NunitoSans7pt-Regular'),
+      url('../fonts/NunitoSans7pt-Regular.woff2') format('woff2'),
+      url('../fonts/NunitoSans7pt-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nunito Sans 7pt-Bold';
+  src: local('Nunito Sans 7pt Bold'), local('NunitoSans7pt-Bold'),
+      url('../fonts/NunitoSans7pt-Bold.woff2') format('woff2'),
+      url('../fonts/NunitoSans7pt-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'NEXT ART';
+  src: local('NEXT ART Bold'), local('NEXTART-Bold'),
+      url('../fonts/NEXTART-Bold.woff2') format('woff2'),
+      url('../fonts/NEXTART-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
