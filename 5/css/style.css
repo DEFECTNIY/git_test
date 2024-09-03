@@ -134,8 +134,11 @@ img {
 }
 
 .nav__link:hover {
+<<<<<<< HEAD
   color: #00ff73;
-  font-size: 20px;
+=======
+  color: #00ff51;
+>>>>>>> 19fd8604f298de6dfe580f6f4e1686aa517197c5
 }
 
 .header__consultation {
